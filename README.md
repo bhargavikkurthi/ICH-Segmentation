@@ -1,4 +1,4 @@
-# SegFormer-based-UNet-model-for-ICH-Segmentation
+# SegFormer-based-UNet-model
 
 Overall, the key contributions of this work can be summarized as follows:
 
