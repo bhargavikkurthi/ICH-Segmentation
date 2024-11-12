@@ -1,4 +1,3 @@
-# SegFormer-based-UNet-model
 
 Overall, the key contributions of this work can be summarized as follows:
 
