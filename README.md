@@ -35,6 +35,7 @@ The goal of this project is to automatically segment different types of ICH usin
 
 These methods enhance the visibility of hemorrhages for better segmentation performance.
 
+---
 
 🧠 Model:
 
