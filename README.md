@@ -1,7 +1,7 @@
 🧠 CT Image Segmentation for Intracranial Hemorrhage (ICH) using Transformer-based U-Net
 This project presents a deep learning-based approach for accurate segmentation of Intracranial Hemorrhage (ICH) using Computed Tomography (CT) scans. It combines advanced image pre-processing techniques with a SegFormer-based U-Net architecture, significantly improving segmentation performance over conventional models.
 
-📌 Background
+📌 Background  
 Traumatic Brain Injury (TBI) is a leading cause of mortality and disability. In the U.S. alone, around 30% of all injury-related deaths in 2013 were caused by TBI.
 
 When trauma or disease leads to bleeding within the skull, it results in an Intracranial Hemorrhage (ICH)—a condition that demands immediate medical and surgical intervention due to:
@@ -19,7 +19,7 @@ Despite the availability of advanced neuroimaging modalities, CT remains the gol
 * Speed and efficiency in emergency settings
 * Capability for time-sensitive decision-making and surgical planning
 
-🎯 Project Objective
+🎯 Project Objective  
 The goal of this project is to automatically segment different types of ICH using a deep learning-based model trained on CT scans. This enables faster and more accurate diagnosis, especially in high-throughput clinical environments.
 
 
